@@ -1,0 +1,12 @@
+D:\C#项目文件夹\WPFProject\Shared\bin\Debug\net6.0\WPFProjectShared.deps.json
+D:\C#项目文件夹\WPFProject\Shared\bin\Debug\net6.0\WPFProjectShared.dll
+D:\C#项目文件夹\WPFProject\Shared\bin\Debug\net6.0\WPFProjectShared.pdb
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.csproj.AssemblyReference.cache
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.AssemblyInfoInputs.cache
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.AssemblyInfo.cs
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.csproj.CoreCompileInputs.cache
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.dll
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\refint\WPFProjectShared.dll
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\WPFProjectShared.pdb
+D:\C#项目文件夹\WPFProject\Shared\obj\Debug\net6.0\ref\WPFProjectShared.dll
